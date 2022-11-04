@@ -1,7 +1,33 @@
 .body{
     padding: 20px;
+    min-height: 70vh;
 }
 
 .fun-fact-list ul li{
     padding: 10px;
+}
+
+.navigationItems ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    align-items: center;
+}
+
+.navigationItems .header-logo{
+ margin-right: auto;
+}
+
+.end-item{
+    margin-right: 40px;
+}
+
+.navigationItems ul li{
+    padding: 10px;
+}
+
+.footer-section{
+    padding: 15px;
+    color: white;
+    background-color: rgb(54, 46, 46);
 }

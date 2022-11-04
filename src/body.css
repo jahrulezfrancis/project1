@@ -1,32 +1,43 @@
-.body{
+.body {
     padding: 20px;
     min-height: 70vh;
 }
 
-.fun-fact-list ul li{
+.fun-fact-list ul li {
     padding: 10px;
 }
 
-.navigationItems ul{
+.navigationItems {
     display: flex;
-    justify-content: center;
+    height: auto;
+    padding: 0px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(10, 14, 21);
+}
+
+.navigationItems ul {
+    display: flex;
     list-style-type: none;
+    justify-content: space-around;
     align-items: center;
 }
 
-.navigationItems .header-logo{
- margin-right: auto;
+.navigationItems .header-logo {
+    margin-right: auto;
+
 }
 
-.end-item{
+.end-item {
     margin-right: 40px;
 }
 
-.navigationItems ul li{
+.navigationItems ul li {
+    color: white;
     padding: 10px;
 }
 
-.footer-section{
+.footer-section {
     padding: 15px;
     color: white;
     background-color: rgb(54, 46, 46);

@@ -4,11 +4,14 @@
     background: rgb(6, 8, 26);
 }
 
-.fun-fact-list ul li, h1 {
+.fun-fact-list ul li, h1, .fun-fact-list ul li h1 {
     padding: 10px;
     color: white;
     font-size: 25px;
 }
+
+
+
 
 
 .navigationItems {
@@ -40,9 +43,10 @@
     margin-right: 40px;
 }
 
-.navigationItems ul li {
+.navigationItems ul li, .navigationItems ul li a {
     color: white;
     padding: 10px;
+    text-decoration: none;
 }
 
 .footer-section {

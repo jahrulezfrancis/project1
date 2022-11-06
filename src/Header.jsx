@@ -12,9 +12,15 @@ export default function Header() {
                             <img src={Logo} alt='Header Logo' width={'80px'} height={'80px'} />
                             <h1>React Facts</h1>
                         </li>
-                        <li>Home</li>
-                        <li>About</li>
-                        <li className="end-item">Contact</li>
+                        <li>
+                            <a href="/">Home</a>
+                        </li>
+                        <li>
+                        <a href="/">About</a>
+                        </li>
+                        <li className="end-item">
+                        <a href="/">Contact</a>
+                        </li>
                     </ul>
                 </nav>
             </header>

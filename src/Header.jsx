@@ -10,6 +10,7 @@ export default function Header() {
                     <ul>
                         <li className="header-logo">
                             <img src={Logo} alt='Header Logo' width={'80px'} height={'80px'} />
+                            <h1>React Facts</h1>
                         </li>
                         <li>Home</li>
                         <li>About</li>

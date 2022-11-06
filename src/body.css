@@ -5,7 +5,7 @@
     background-image: url(./Images/trans-react-image.svg);
     background-size: 200px;
     background-repeat: no-repeat;
-    background-position-x: right;
+    background-position-x: right -5%;
     background-position-y: center;
     background-clip: padding-box;
 }

@@ -11,7 +11,7 @@ export function Body() {
                     <li>Was first released in 2013</li>
                     <li>Was originally created by Jordan Walke</li>
                     <li>Has well over 100k start on GitHub</li>
-                    <li>It is mantained by Faceboob</li>
+                    <li>It is mantained by Facebook</li>
                     <li>Powers thousand of enterprise apps, including mobile apps</li>
                 </ul>
             </div>
